@@ -3,7 +3,7 @@ import SongCard from './components/SongCard'
 import Header from './components/Header'
 import SongList from './assets/songs.json'
 
-const TOTAL_CARDS_DRAWN = 9;
+const DEFAULT_TOTAL_CARDS_DRAWN = 9;
 
 const getRandomSongs = (songs: any[], count: number) => {
   const shuffled = songs.sort(() => 0.5 - Math.random());
@@ -12,15 +12,20 @@ const getRandomSongs = (songs: any[], count: number) => {
 
 function App() {
   const [songs, setSongs] = useState<any[]>([]);
+  const [totalCards, setTotalCards] = useState<number>(DEFAULT_TOTAL_CARDS_DRAWN);
 
   const handleSongs = () => {
-    const randomSongs = getRandomSongs(SongList, TOTAL_CARDS_DRAWN);
+    const randomSongs = getRandomSongs(SongList, totalCards);
     setSongs(randomSongs);
+  }
+
+  const handleTotalCards = (value: number) => {
+    setTotalCards(value);
   }
 
   return (
     <div className="">
-      <Header action={handleSongs}/>
+      <Header action={handleSongs} handleValue={handleTotalCards}/>
       <div className="flex flex-wrap justify-center bg-neutral-900 ">
         <br/><br/>
         {songs.map((song, index)=>{
