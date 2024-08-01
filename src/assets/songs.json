@@ -1,0 +1,130 @@
+[
+    {
+        "title": "Double Lariat",
+        "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/a/a8/Double_Lariat_illustration.jpg", 
+        "Artist": "Megurine Luka", 
+        "Producer": "Agoaniki", 
+        "BPM": "138", 
+        "Difficulty": "Extreme (7)"
+    },
+     {
+        "title": "Interviewer",
+        "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/b/b0/Interviewer_illustration.jpg", 
+        "Artist": "Megurine Luka, Hatsune Miku", 
+        "Producer": "Kuwagata P", 
+        "BPM": "125", 
+        "Difficulty": "Extreme (7.5)"
+    },
+    {
+        "title":"Hanamai Tsukuyomi Tan",
+        "imageUrl": "", 
+        "Artist": "Megurine Luka", 
+        "Producer": "Hoskey, Yukie Dong", 
+        "BPM": "139-185", 
+        "Difficulty": "Extreme (7.5)"
+    },
+    {
+        "title":"Just Be Friends",
+        "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/9/96/Just_Be_Friends_illustration.jpg", 
+        "Artist": "Megurine Luka", 
+        "Producer": "Dixie Flatline", 
+        "BPM": "128", 
+        "Difficulty": "Extreme (8)"
+    },
+    {
+        "title":"Leia",
+        "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/0/00/Leia_illustration.jpg", 
+        "Artist": "Megurine Luka", 
+        "Producer": "Yuyoyuppe", 
+        "BPM": "190", 
+        "Difficulty": "Extreme (8)"
+    },
+    {
+        "title":"Luka Luka Night Fever",
+        "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/0/00/Luka_Luka_Night_Fever_illustration.jpg", 
+        "Artist": "Megurine Luka", 
+        "Producer": "samfree", 
+        "BPM": "160", 
+        "Difficulty": "Extreme (8)"
+    },
+    {
+        "title":"Hello, Worker",
+        "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/a/ad/HelloWorker_illustration.jpg", 
+        "Artist": "Megurine Luka", 
+        "Producer": "Kei Hayashi", 
+        "BPM": "168", 
+        "Difficulty": "Extreme (8)"
+    },
+    {
+        "title":"Glasses",
+        "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/d/d1/Glasses_illust.jpg", 
+        "Artist": "Megurine Luka", 
+        "Producer": "Ultra-Noob", 
+        "BPM": "120", 
+        "Difficulty": "Extreme (8)"
+    },
+    {
+        "title":"No Logic",
+        "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/9/92/NoLogic_illustration.jpg", 
+        "Artist": "Megurine Luka", 
+        "Producer": "JimmyThumb P", 
+        "BPM": "138", 
+        "Difficulty": "Extreme (8)"
+    },
+    {
+        "title":"Palette",
+        "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/6/6d/Palette_illustration.jpg", 
+        "Artist": "Megurine Luka", 
+        "Producer": "Yuyoyuppe, meola", 
+        "BPM": "180", 
+        "Difficulty": "EX Extreme (8)"
+    },
+    {
+        "title":"DYE",
+        "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/b/bf/DYE_illustration.jpg", 
+        "Artist": "Megurine Luka", 
+        "Producer": "AVTechNO!", 
+        "BPM": "158", 
+        "Difficulty": "Extreme (8.5)"
+    },
+    {
+        "title":"Stardust Utopia",
+        "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/8/86/Stardust_utopia.png", 
+        "Artist": "Megurine Luka", 
+        "Producer": "otetsu", 
+        "BPM": "240", 
+        "Difficulty": "EX Extreme (8.5)"
+    },
+    {
+        "title":"Black Gold",
+        "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/7/70/BlackGold_illustration.jpg", 
+        "Artist": "Megurine Luka", 
+        "Producer": "otetsu", 
+        "BPM": "250", 
+        "Difficulty": "Extreme (8.5)"
+    },
+    {
+        "title":"Meiteki Cybernetics",
+        "imageUrl": "", 
+        "Artist": "Megurine Luka", 
+        "Producer": "otetsu", 
+        "BPM": "145", 
+        "Difficulty": "EX Extreme (9)"
+    },
+    {
+        "title":"Iya Iya Seijin",
+        "imageUrl": "", 
+        "Artist": "Megurine Luka", 
+        "Producer": "IyaiyaP", 
+        "BPM": "150-200", 
+        "Difficulty": "Extreme (9.5)"
+    },
+    {
+        "title":"Blackjack",
+        "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/c/c2/Blackjack_illustration.jpg", 
+        "Artist": "Megurine Luka", 
+        "Producer": "Yucha P", 
+        "BPM": "228", 
+        "Difficulty": "Extreme (9.5)"
+    }
+]
