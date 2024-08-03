@@ -1,21 +1,21 @@
 [
     {
-        "title": "Double Lariat",
+        "title": "ダブルラリアット",
         "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/a/a8/Double_Lariat_illustration.jpg", 
         "Artist": "Megurine Luka", 
         "Producer": "Agoaniki", 
         "BPM": "138", 
         "Difficulty": "Extreme (7)",
-        "Sub": ""
+        "Sub": "Double Lariat"
     },
      {
-        "title": "Interviewer",
+        "title": "インタビュア",
         "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/b/b0/Interviewer_illustration.jpg", 
         "Artist": "Megurine Luka, Hatsune Miku", 
         "Producer": "Kuwagata P", 
         "BPM": "125", 
         "Difficulty": "Extreme (7.5)",
-        "Sub": ""
+        "Sub": "Interviewer"
     },
     {
         "title":"花舞月詠譚",
@@ -45,13 +45,13 @@
         "Sub": ""
     },
     {
-        "title":"Luka Luka Night Fever",
+        "title":"ルカルカ★ナイトフィーバー",
         "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/0/00/Luka_Luka_Night_Fever_illustration.jpg", 
         "Artist": "Megurine Luka", 
         "Producer": "samfree", 
         "BPM": "160", 
         "Difficulty": "Extreme (8)",
-        "Sub": ""
+        "Sub": "Luka Luka★Night Fever"
     },
     {
         "title":"Hello, Worker",
@@ -99,22 +99,22 @@
         "Sub": ""
     },
     {
-        "title":"Stardust Utopia",
+        "title":"星屑ユートピア",
         "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/8/86/Stardust_utopia.png", 
         "Artist": "Megurine Luka", 
         "Producer": "otetsu", 
         "BPM": "240", 
         "Difficulty": "EX Extreme (8.5)",
-        "Sub": ""
+        "Sub": "Stardust Utopia"
     },
     {
-        "title":"Black Gold",
+        "title":"ブラックゴールド",
         "imageUrl": "https://static.wikia.nocookie.net/project-diva/images/7/70/BlackGold_illustration.jpg", 
         "Artist": "Megurine Luka", 
         "Producer": "otetsu", 
         "BPM": "250", 
         "Difficulty": "Extreme (8.5)",
-        "Sub": ""
+        "Sub": "Black Gold"
     },
     {
         "title":"迷的サイバネティックス",
