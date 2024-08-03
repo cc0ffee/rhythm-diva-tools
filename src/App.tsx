@@ -29,7 +29,7 @@ function App() {
       <div className="flex flex-wrap justify-center bg-neutral-900 ">
         <br/><br/>
         {songs.map((song, index)=>{
-          return(<SongCard key={song.title + index + Math.random()} image={song.imageUrl} title={song.title} artist={song.Artist} bpm={song.BPM} producer={song.Producer} difficulty={song.Difficulty} color="bg-gray-900"/>)
+          return(<SongCard key={song.title + index + Math.random()} image={song.imageUrl} title={song.title} artist={song.Artist} bpm={song.BPM} producer={song.Producer} difficulty={song.Difficulty} sub={song.Sub} color="bg-gray-900"/>)
         })}
       </div>
     </div>

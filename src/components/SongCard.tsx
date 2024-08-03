@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Badge from './Badge'
 
-function SongCard(props: {image: any, title: string, artist: string, producer: string, bpm: string, difficulty: string, color: any}) {
+function SongCard(props: {image: any, title: string, artist: string, producer: string, bpm: string, difficulty: string, color: any, sub: string}) {
     const [bgColor, setBgColor] = useState(props.color);
     const [pickText, setPickText] = useState('');
 
@@ -25,6 +25,7 @@ function SongCard(props: {image: any, title: string, artist: string, producer: s
             <img className="h-full w-full object-cover" src={props.image} alt={props.title} />
             <div className={`absolute inset-0 ${bgColor} bg-opacity-60 flex flex-col justify-center items-center px-4 py-2`}>
                 <div className="font-bold text-lg text-white text-center">{props.title}</div>
+                {props.sub !== "" && (<div className="font-bold text-sm text-white text-center mb-2">{props.sub}</div>)}
                 <p className="text-xs text-white text-center">{props.artist}</p>
                 <div className="absolute bottom-4 w-full flex justify-center">
                     {pickText !== "" && (
